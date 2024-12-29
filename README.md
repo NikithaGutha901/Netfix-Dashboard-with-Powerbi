@@ -45,7 +45,7 @@ This project explores a **real-time Netflix dataset** from Kaggle, showcasing th
 ## 🖼️ Dashboard Demo  
 Here’s a preview of the **Power BI dashboard**:
 
-![Dashboard Screenshot]([./images/dashboard_screenshot.png](https://github.com/NikithaGutha901/Netfix-Dashboard-with-Powerbi/blob/main/Screenshot%202024-12-29%20152259.png))
+![Dashboard Screenshot](https://github.com/NikithaGutha901/Netfix-Dashboard-with-Powerbi/blob/main/Screenshot%202024-12-29%20152259.png)
 
 ## 🚀 Future Work
 - Explore additional datasets to expand the analysis.
