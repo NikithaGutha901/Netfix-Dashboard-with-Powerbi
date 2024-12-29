@@ -24,6 +24,9 @@ This project explores a **real-time Netflix dataset** from Kaggle, showcasing th
   - **Slicers** for filtering data dynamically.
   - **Multi-row cards** for key metrics.
   - **Maps, tables, stacked column charts, and funnel charts** to visualize data effectively.
+  - **Tooltips**: Incorporated dynamic tooltips for deeper data exploration, featuring:
+    - **Gauge Chart** to display the progress or performance of key metrics.
+    - **Doughnut Chart** to show proportional breakdowns, especially useful for visualizing the distribution of votes across movies and TV shows.
 
 ## 🎯 Key Insights
 - Identified trends in user ratings and voting patterns across movies and TV shows.
@@ -39,11 +42,17 @@ This project explores a **real-time Netflix dataset** from Kaggle, showcasing th
 - **Power BI File:** Includes the ETL process, data modeling, and dashboard visualizations.
 - **Screenshots:** Highlights of the dashboard and key metrics.
 
+## 🖼️ Dashboard Demo  
+Here’s a preview of the **Power BI dashboard**:
+
+![Dashboard Screenshot](./images/dashboard_screenshot.png)
+
 ## 🚀 Future Work
 - Explore additional datasets to expand the analysis.
 - Integrate predictive modeling for content popularity trends.
 
 ## 🤝 Connect
 If you find this project interesting or have suggestions for improvement, feel free to reach out or contribute!
+
 
 
